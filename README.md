@@ -1,8 +1,7 @@
 # EncriptadoresAri 
 #### Contenidos importantes
 <div style="background-image:url('https://www.alura.com.br/assets/img/challenges/icons/icon-trello.svg'); background-repeat: no-repeat;">
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://trello.com/b/ctdSDhqi/challenge-oracle-one-l%C3%B3gica-de-programaci%C3%B3n-semana-1-y-2" target="_blank" style="text-decoration: none; color: inherit" style="cursor: pointer">&nbsp;&nbsp;&nbsp;&nbsp;Link del Trello</a>
-Constituye en un encriptador 
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://trello.com/b/ctdSDhqi/challenge-oracle-one-l%C3%B3gica-de-programaci%C3%B3n-semana-1-y-2" target="_blank" style="text-decoration: none; color: inherit" style="cursor: pointer">&nbsp;&nbsp;&nbsp;&nbsp;Link del Trello</a> 
 </div>
 Se crean un encriptador : encreiptador 1 despues se hacen mejorar con dos encriptadores uno mejorado llamado Encriptador 2
 </br>

@@ -1,3 +1,5 @@
+![encriptado_remo](http://g.recordit.co/51S9P8Ej2V.gif)
+
 # EncriptadoresAri 
 #### Contenidos importantes
 <div style="background-image:url('https://www.alura.com.br/assets/img/challenges/icons/icon-trello.svg'); background-repeat: no-repeat;">

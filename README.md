@@ -1,4 +1,4 @@
-![encriptado_remo](Encriptador 1.gif)
+![encriptado_remo](https://github.com/ArianaEstrella/EncriptadorAri/blob/master/Encriptador%201.gif)
 
 # EncriptadoresAri 
 #### Contenidos importantes

@@ -1,0 +1,102 @@
+
+<meta charset="UTF-8">
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Encriptador/Ari</title>
+  <link rel="stylesheet" href="style1.css">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap" rel="stylesheet">
+
+</head>
+<body>
+  
+  <header>  
+
+    <img class="logo" src="imagenes/Logo.png" alt="logo de alura">
+
+  </header>
+ 
+  <h1 class="titulo"><marquee></marquee><marquee width=600 direction=right>Bienvenido al encriptador</marquee></marquee></h1>
+
+  <main class="main">
+    <section class="form box">
+      <form action="">
+    
+        <div>
+          <h6 class="informacion">Solo letras minúsculas y sin acentos</h6>
+         </div>
+
+
+        <textarea class="text-input" type="text" name="input-texto" id="input-texto" cols="50" rows="5" placeholder="Ingrese el texto aqui"></textarea>
+        <input class="btn-encriptar" type="button" value="Encriptar" id="btn-encriptar">
+        <input class="btn-desencriptar" type="button" value="Desencriptar" id="btn-desencriptar">
+      </form>
+    </section>
+ 
+    <section class="msg box">
+      <section>
+        <textarea class="mensaje" name="" id="" cols="000" rows="20"></textarea>
+
+     </section>
+
+
+      <h2 id="">Mensaje encriptado:</h2>
+      <textarea class="text-input-salida" type="text" id="msg"></textarea>
+   
+
+      <button class="copiar" onclick="copyToClipBoard()">Copy</button>
+
+    </section>
+
+
+
+
+
+    
+  </main>
+
+
+  <script src="script.js"></script>
+  <script src="Copiar-pegar.js"></script>
+</body>
+
+</html>
+
+
+<script>
+function encriptar (){
+    var texto = document.querySelector("#input-texto").value;
+    var textoCifrado = texto.replace(/a/gi, "FA").replace(/e/gi, "FE").replace(/i/gi, "FI").replace(/o/gi, "FO").replace(/u/gi, "FU");
+    document.querySelector(".text-input-salida").value = textoCifrado;
+    document.querySelector("#input-texto").value;
+    }
+
+
+    
+var boton1 = document.querySelector("#btn-encriptar"); boton1.onclick = encriptar;
+
+function desencriptar (){ var texto = document.querySelector("#input-texto").value; var textoCifrado = texto.replace(/enter/gi, "e").replace(/imes/gi, "i").replace(/ai/gi, "a").replace(/ober/gi, "o").replace(/ufat/gi, "u"); document.querySelector(".text-input-salida").value = textoCifrado; document.querySelector("#input-texto").value;
+
+}
+
+var boton2 = document.querySelector("#btn-desencriptar"); boton2.onclick = desencriptar;
+
+function copyToClipBoard() {
+
+var content = document.getElementById('msg');
+
+content.select();
+document.execCommand('copy');
+
+
+}
+
+</script>

@@ -1,4 +1,4 @@
-![encriptado_remo](http://g.recordit.co/51S9P8Ej2V.gif)
+![encriptado_remo](Encriptador 1.gif)
 
 # EncriptadoresAri 
 #### Contenidos importantes

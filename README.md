@@ -3,7 +3,7 @@
 <div style="background-image:url('https://www.alura.com.br/assets/img/challenges/icons/icon-trello.svg'); background-repeat: no-repeat;">
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://trello.com/b/ctdSDhqi/challenge-oracle-one-l%C3%B3gica-de-programaci%C3%B3n-semana-1-y-2" target="_blank" style="text-decoration: none; color: inherit" style="cursor: pointer">&nbsp;&nbsp;&nbsp;&nbsp;Link del Trello</a> 
 </div>
-Se crean un encriptador : encreiptador 1 despues se hacen mejorar con dos encriptadores uno mejorado llamado Encriptador 2
+
 </br>
 
 <div style="background-image:url('https://www.alura.com.br/assets/img/challenges/icons/icon-discord.svg'); background-repeat: no-repeat;">
@@ -20,7 +20,7 @@ Se crean un encriptador : encreiptador 1 despues se hacen mejorar con dos encrip
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://trello.com/b/ctdSDhqi/challenge-oracle-one-l%C3%B3gica-de-programaci%C3%B3n-semana-1-y-2" target="_blank" style="text-decoration: none; color: inherit" style="cursor: pointer">&nbsp;&nbsp;&nbsp;&nbsp;Alura+: ¿Cómo un desarrollador Front End utiliza el Figma?</a>
 </div>
 </br></br>
-
+Se crean un encriptador : encreiptador 1 despues se hacen mejorar con dos encriptadores uno mejorado llamado Encriptador 2
 Llegó la hora de afrontar el desafío comienza hoy mismo a implementar tu Alura Challenge - Oracle ONE Principiante en Programación.
 </br></br>
 

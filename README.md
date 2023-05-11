@@ -1,10 +1,5 @@
 # EncriptadorAri
 Constituye en un encriptador 
-![encriptado_remo](http://g.recordit.co/51S9P8Ej2V.gif)
-[Demo](https://pmarchionno.github.io/encriptador/)
-</br></br></br>
-## Detalles de este Challenge:
-
 #### Contenidos importantes
 <div style="background-image:url('https://www.alura.com.br/assets/img/challenges/icons/icon-trello.svg'); background-repeat: no-repeat;">
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://trello.com/b/ctdSDhqi/challenge-oracle-one-l%C3%B3gica-de-programaci%C3%B3n-semana-1-y-2" target="_blank" style="text-decoration: none; color: inherit" style="cursor: pointer">&nbsp;&nbsp;&nbsp;&nbsp;Link del Trello</a>

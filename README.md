@@ -1,5 +1,5 @@
 ![encriptado_remo](https://github.com/ArianaEstrella/EncriptadorAri/blob/master/Encriptador%201.gif)![encriptado_remo](https://github.com/ArianaEstrella/EncriptadorAri/blob/master/Encriptador2.gif)
-
+</br></br>
 # EncriptadoresAri 
 #### Contenidos importantes
 <div style="background-image:url('https://www.alura.com.br/assets/img/challenges/icons/icon-trello.svg'); background-repeat: no-repeat;">
